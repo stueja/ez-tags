@@ -1,0 +1,7 @@
+# ez-tags.preset
+# keyword preset for ez-tags.sh
+# enter one line, separated by "$Separator" (see ez-tags.sh). $Separator usually is ", ".
+# DO NOT END WITH SEPARATOR
+# example: 
+# City, Pennsylvania, Philadelphia
+Testtag, Jan Stühler
