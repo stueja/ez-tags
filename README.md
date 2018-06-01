@@ -35,4 +35,6 @@ and save.
 In Geeqie, use "Edit > Preferences > Keyboard", find the plugin (ez-tags), and assign
 a hotkey to it, maybe F3
 
+Using ripgrep, find tagged images now via:
+rg --ignore-case --files-with-matches --text <searchterm> <path>
 ```
